@@ -9,7 +9,7 @@ Welcome to the **Data Visualization Projects** repository! This repository conta
 This repository is dedicated to providing examples of data visualization techniques that can be applied to real-world datasets. 
 
 
-##Project Directory:
+## Project Directory:
 
 The repository is organized as follows
 ```code
