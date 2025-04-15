@@ -15,7 +15,7 @@ The repository is organized as follows
 ```code
 data-visualization-projects/
 ├── HR-Analytics-Dashboard-Google-DEI/
-│   ├── google_dei_hr_dashboard_analysis/
+│   ├── google_dei_hr_dashboard_analysis
 ├── Public-Transit-Ridership-Analysis/
 │   ├── American-Public-Transit-Ridership-and-Funding.pptx
 │   ├── Public Transit Ridership Analysis.docx
